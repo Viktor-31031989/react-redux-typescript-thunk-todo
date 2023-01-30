@@ -1,0 +1,22 @@
+.todo-container{
+    width: 490px;
+    box-shadow: 1px 1px 5px grey;
+    margin: 10px auto 0 auto;
+    padding: 10px;
+}
+
+.todo-section{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px
+}
+
+.deleteButton {
+    color: #ffa5a5;
+
+}
+
+.deleteButton:hover {
+    color: #ff0000;
+
+}

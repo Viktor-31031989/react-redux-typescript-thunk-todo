@@ -1,0 +1,11 @@
+.user-container {
+    width: 500px;
+    box-shadow: 1px 1px 5px grey;
+    margin: 10px auto 0 auto
+}
+
+.user-info {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px
+}
